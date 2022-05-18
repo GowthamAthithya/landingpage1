@@ -1,0 +1,67 @@
+
+.banner{
+    height: 100vh;
+    background-color: rgba(6, 53, 153, 0.671);
+    margin: 0px;
+    padding: 0;
+}
+
+.banner-page{
+    background-color: rgba(148, 204, 226, 0.671);
+    color: rgb(255, 255, 255);
+    padding: 70px 0px;
+    margin: 0px 0px;
+    text-align: center;
+}
+
+#turtle{
+    width: 200px;
+    height: 200px;
+}
+
+.button{
+    cursor: pointer;
+}
+
+#turtleName{
+    font-size: 40px;
+    color: rgb(225, 231, 231);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
